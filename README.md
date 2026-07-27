@@ -1,176 +1,190 @@
-# Hi, I'm Mohit Ingale 👋
+<div align="center">
 
-**Software Engineer | AI Builder | Full Stack Developer**
+# Hi there, I'm Mohit Ingale 👋
 
-I enjoy building software that solves real-world problems rather than just demonstrating technology. Most of my work focuses on combining AI with scalable web and mobile applications to create products that people can actually use.
+### Software Engineer • Full Stack Developer • AI Applications
 
-I'm a recent Information Technology graduate from India and currently looking for opportunities where I can contribute as a **Software Engineer**, **Backend Developer**, **Full Stack Developer**, or **AI Engineer**.
+Building software that solves real-world problems through scalable backend systems, modern web & mobile applications, and practical AI.
 
-![](https://komarev.com/ghpvc/?username=Mohitingale13&color=blue)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Mohitingale13&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/Mohitingale13?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Mohitingale13?style=for-the-badge" />
+</p>
+
+[Portfolio](https://your-portfolio.com) •
+[LinkedIn](https://linkedin.com/in/your-linkedin) •
+[Resume](./Resume.pdf) •
+[Email](mailto:your@email.com)
+
+</div>
+
 ---
 
-## 🚀 About Me
+# About Me
 
-* 💻 Full Stack Developer with a strong interest in AI-powered applications.
-* 🤖 Building autonomous AI systems, intelligent workflows, and practical automation tools
-* 📱 Passionate about mobile-first applications and user-centric design
-* 🌍 Interested in software that creates measurable social impact
-* 🏆 Winner of multiple national-level hackathons and technical competitions
-* 📖 Always learning new technologies and building projects beyond the classroom
+I'm an Information Technology graduate from India who enjoys building software that people can actually use.
+
+My interests lie in backend engineering, full-stack development, AI-powered applications, and scalable software systems. I enjoy turning complex ideas into reliable products—from financial platforms that help rural communities to intelligent analytics and automation tools.
+
+Currently looking for opportunities as a **Software Engineer**, **Backend Developer**, **Full Stack Developer**, or **AI Engineer**.
 
 ---
 
-# 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+# Tech Stack
 
 ### Languages
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+
 ### Frontend
 
-* React
-* React Native
-* Expo
-* Vite
-* Tailwind CSS
-* HTML5
-* CSS3
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react)
+![Expo](https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
 
 ### Backend
 
-* Node.js
-* Express.js
-* REST APIs
-* FastAPI
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
 
 ### Databases
 
-* PostgreSQL
-* MongoDB
-* Supabase
-* Firestore
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
 
-### AI & Automation
+### AI & Tools
 
-* OpenAI APIs
-* Gemini APIs
-* LangGraph
-* Multi-Agent Workflows
-* Prompt Engineering
-* LLM Integrations
-
-### Tools
-
-* Git
-* GitHub
-* Docker
-* Linux
-* Android Studio
-* Postman
-* VS Code
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=flat-square&logo=openai)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
 
 ---
 
-# 🌟 Featured Projects
+# Featured Projects
 
-## 📱 SHG Digital Record Platform
+## SHG Digital Record Platform
 
-A bilingual (English & Marathi) mobile-first platform built for rural Self Help Groups (SHGs), digitizing financial records, meetings, member management, and loan workflows.
+A bilingual (English/Marathi) mobile-first platform built for rural Women's Self Help Groups to digitize financial operations and governance.
 
-### Highlights
+**Highlights**
 
-* AI Voice Assistant
-* Internal Loan Management
-* Group Bank Loan Distribution
-* PDF Reports & Passbooks
-* Offline-friendly Mobile Experience
-* Role-Based Access
-* Immutable Financial Ledger
-
----
-
-## 🚦 SentinelFlow
-
-An AI-powered Traffic Operations Intelligence Platform developed during the Flipkart Grid Hackathon.
-
-### Features
-
-* Traffic Incident Prediction
-* Live Monitoring Dashboard
-* AI-based Risk Analysis
-* Interactive Maps
-* Analytics Dashboard
+- Mobile-first experience
+- AI Voice Assistant
+- Internal Loan Management
+- Bank Loan Distribution
+- Immutable Financial Ledger
+- PDF Reports & Passbooks
+- Role-Based Access
+- Adopted by multiple SHGs with active users
 
 ---
 
-## 🎉 Charades Party
+## SentinelFlow
 
-An AI-powered multiplayer party game that dynamically generates custom charades decks using Gemini AI.
+AI-powered Traffic Operations Intelligence Platform developed during Flipkart GRID.
 
----
+**Highlights**
 
-## 🏆 Championship Streamer
-
-A real-time sports tournament management platform featuring live scorecards, tournament management, and automated updates.
-
----
-
-## 🥽 PhysioVR
-
-A low-cost AI-assisted virtual reality rehabilitation platform focused on accessible healthcare.
+- Traffic Demand Prediction
+- Incident Risk Analysis
+- GIS-Based Visualization
+- Machine Learning Models
+- Interactive Analytics Dashboard
 
 ---
 
-# 🏅 Achievements
+## Championship Streamer
 
-* 🥇 Winner of multiple National-Level Hackathons
-* 🥇 Winner of a Prompt Engineering Competition
-* 🚀 Flipkart GRID Hackathon Qualifier
-* 🚀 Smart India Hackathon Finalist (Round 2)
-* 💡 Built multiple AI-powered applications from scratch
-
----
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Mohitingale13&show_icons=true&theme=tokyonight&hide_border=true)
-
-## 🐍 Contribution Graph
-
-![](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
-
-# 📈 Current Focus
-
-I'm currently exploring:
-
-* Autonomous AI Agents
-* MCP (Model Context Protocol)
-* AI Developer Tools
-* Backend Architecture
-* Distributed Systems
-* Scalable APIs
-* Intelligent Automation
+Real-time sports tournament management platform for managing fixtures, live scorecards, and tournament updates.
 
 ---
 
-# 📚 Currently Learning
+## PhysioVR
 
-* Advanced JavaScript
-* System Design
-* Distributed Systems
-* AI Infrastructure
-* Agentic AI Frameworks
+Low-cost AI-assisted rehabilitation platform designed to improve accessibility to physiotherapy using immersive technologies.
 
 ---
 
-# 🤝 Let's Connect
+# Achievements
 
-I'm always interested in collaborating on meaningful projects, hackathons, and open-source contributions.
+🏆 Winner of multiple National-Level Hackathons
 
-If you're working on AI, developer tools, automation, or scalable software, I'd love to connect.
+🥇 Winner — National Prompt Engineering Competition
+
+🚀 Qualified for Round 2 — Flipkart GRID
+
+💡 Built production-oriented AI and Full Stack applications
 
 ---
 
-> *"Build software that solves problems—not just projects that fill a portfolio."*
+# Currently Exploring
+
+- Scalable Backend Architecture
+- Agentic AI Systems
+- AI Developer Tools
+- Distributed Systems
+- System Design
+- Intelligent Automation
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohitingale13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitingale13&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mohitingale13&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohitingale13&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# Contribution Snake
+
+> Enable the GitHub Action first (explained below).
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Mohitingale13/Mohitingale13/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# Let's Connect
+
+I'm always interested in collaborating on meaningful software projects, hackathons, open-source contributions, and AI applications.
+
+If you're working on scalable software, backend engineering, AI, or developer tools, feel free to connect.
+
+<div align="center">
+
+### Thanks for stopping by! ⭐
+
+*"Good software isn't measured by lines of code—it's measured by the problems it solves."*
+
+</div>
