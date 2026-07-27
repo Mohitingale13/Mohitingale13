@@ -1,21 +1,30 @@
 <div align="center">
 
-# Hi there, I'm Mohit Ingale 👋
+# Mohit Ingale
 
 ### Software Engineer • Full Stack Developer • AI Applications
 
-Building software that solves real-world problems through scalable backend systems, modern web & mobile applications, and practical AI.
+Building practical software that combines scalable engineering with AI to solve real-world problems.
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Mohitingale13&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/followers/Mohitingale13?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Mohitingale13?style=for-the-badge" />
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Mohitingale13">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+</a>
 </p>
 
-[Portfolio](https://your-portfolio.com) •
-[LinkedIn](https://linkedin.com/in/your-linkedin) •
-[Resume](./Resume.pdf) •
-[Email](mailto:your@email.com)
+![](https://komarev.com/ghpvc/?username=Mohitingale13&style=for-the-badge&color=0e75b6)
 
 </div>
 
@@ -23,51 +32,20 @@ Building software that solves real-world problems through scalable backend syste
 
 # About Me
 
-I'm an Information Technology graduate from India who enjoys building software that people can actually use.
+I'm an Information Technology graduate who enjoys building software with measurable impact.
 
-My interests lie in backend engineering, full-stack development, AI-powered applications, and scalable software systems. I enjoy turning complex ideas into reliable products—from financial platforms that help rural communities to intelligent analytics and automation tools.
+Rather than creating demo projects, I like building products that people can actually use—from digital financial platforms for rural communities to AI-powered analytics systems and mobile applications.
 
-Currently looking for opportunities as a **Software Engineer**, **Backend Developer**, **Full Stack Developer**, or **AI Engineer**.
+My primary interests include
 
----
+- Backend Engineering
+- Full Stack Development
+- AI-powered Applications
+- Distributed Systems
+- Mobile Development
+- Scalable APIs
 
-# Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react)
-![Expo](https://img.shields.io/badge/Expo-black?style=flat-square&logo=expo)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
-
-### AI & Tools
-
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=flat-square&logo=openai)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
+Currently looking for Software Engineering opportunities where I can contribute to building reliable products at scale.
 
 ---
 
@@ -75,116 +53,166 @@ Currently looking for opportunities as a **Software Engineer**, **Backend Develo
 
 ## SHG Digital Record Platform
 
-A bilingual (English/Marathi) mobile-first platform built for rural Women's Self Help Groups to digitize financial operations and governance.
+**React Native • Node.js • PostgreSQL • Supabase**
+
+A bilingual mobile-first platform built to digitize financial operations for Women's Self Help Groups.
 
 **Highlights**
 
-- Mobile-first experience
 - AI Voice Assistant
 - Internal Loan Management
 - Bank Loan Distribution
 - Immutable Financial Ledger
-- PDF Reports & Passbooks
-- Role-Based Access
-- Adopted by multiple SHGs with active users
+- Role-based Access Control
+- PDF Passbooks & Reports
+- English & Marathi Support
+- Adopted by multiple SHGs
 
 ---
 
 ## SentinelFlow
 
-AI-powered Traffic Operations Intelligence Platform developed during Flipkart GRID.
+**Python • FastAPI • React • XGBoost • NetworkX • PostGIS**
 
-**Highlights**
+Traffic Operations Intelligence Platform developed during Flipkart GRID.
+
+Features include
 
 - Traffic Demand Prediction
 - Incident Risk Analysis
-- GIS-Based Visualization
-- Machine Learning Models
-- Interactive Analytics Dashboard
+- GIS Mapping
+- Machine Learning
+- Interactive Dashboard
 
 ---
 
 ## Championship Streamer
 
-Real-time sports tournament management platform for managing fixtures, live scorecards, and tournament updates.
+Real-time sports tournament management platform with automated score updates, fixtures, and analytics.
 
 ---
 
 ## PhysioVR
 
-Low-cost AI-assisted rehabilitation platform designed to improve accessibility to physiotherapy using immersive technologies.
+Affordable AI-assisted rehabilitation platform designed to improve accessibility to physiotherapy using immersive technologies.
+
+---
+
+# Tech Stack
+
+### Languages
+
+`Python` • `Java` • `JavaScript` • `TypeScript` • `SQL`
+
+### Frontend
+
+`React`
+`React Native`
+`Expo`
+`TailwindCSS`
+
+### Backend
+
+`Node.js`
+`Express`
+`FastAPI`
+`REST APIs`
+
+### Databases
+
+`PostgreSQL`
+`MongoDB`
+`Supabase`
+`Firebase`
+
+### AI
+
+`OpenAI`
+`Gemini`
+`LangGraph`
+`Prompt Engineering`
+`LLM Integration`
+
+### Tools
+
+`Git`
+`GitHub`
+`Docker`
+`Linux`
+`Android Studio`
+`Postman`
 
 ---
 
 # Achievements
 
-🏆 Winner of multiple National-Level Hackathons
+🏆 Winner of Multiple National-Level Hackathons
 
-🥇 Winner — National Prompt Engineering Competition
+🥇 National Prompt Engineering Competition Winner
 
-🚀 Qualified for Round 2 — Flipkart GRID
+🚀 Flipkart GRID Round 2 Qualifier
 
-💡 Built production-oriented AI and Full Stack applications
+💡 Developed multiple production-oriented AI and Full Stack applications
 
 ---
 
 # Currently Exploring
 
-- Scalable Backend Architecture
-- Agentic AI Systems
-- AI Developer Tools
-- Distributed Systems
 - System Design
-- Intelligent Automation
+- Agentic AI
+- Distributed Systems
+- AI Infrastructure
+- Backend Architecture
+- Cloud-native Applications
 
 ---
 
 # GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohitingale13&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohitingale13&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitingale13&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitingale13&layout=compact&theme=transparent&hide_border=true"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mohitingale13&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohitingale13&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Snake
-
-> Enable the GitHub Action first (explained below).
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Mohitingale13/Mohitingale13/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# Let's Connect
-
-I'm always interested in collaborating on meaningful software projects, hackathons, open-source contributions, and AI applications.
-
-If you're working on scalable software, backend engineering, AI, or developer tools, feel free to connect.
+</div>
 
 <div align="center">
 
-### Thanks for stopping by! ⭐
+<img src="https://streak-stats.demolab.com?user=Mohitingale13&theme=transparent&hide_border=true"/>
 
-*"Good software isn't measured by lines of code—it's measured by the problems it solves."*
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohitingale13&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# Open Source
+
+I'm actively working on improving my open-source portfolio by publishing production-ready projects, reusable developer tools, and AI-powered applications.
+
+---
+
+# Connect
+
+If you're interested in software engineering, AI applications, open source, or just want to discuss interesting ideas, feel free to reach out.
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+<a href="YOUR_PORTFOLIO">Portfolio</a> •
+<a href="mailto:YOUR_EMAIL">Email</a>
+
+</p>
+
+---
+
+<div align="center">
+
+*"Build things that people remember because they solved a problem—not because they used a trendy tech stack."*
 
 </div>
