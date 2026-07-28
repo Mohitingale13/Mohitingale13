@@ -205,7 +205,7 @@ If you're interested in software engineering, AI applications, open source, or j
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
 <a href="YOUR_PORTFOLIO">Portfolio</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
+<a href="mailto:mohitpraviningale13@gmail.com">Email</a>
 
 </p>
 
