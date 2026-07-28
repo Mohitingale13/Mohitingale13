@@ -203,8 +203,8 @@ If you're interested in software engineering, AI applications, open source, or j
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="YOUR_PORTFOLIO">Portfolio</a> •
+<a href="www.linkedin.com/in/mohitpingale">LinkedIn</a> •
+<a href="[YOUR_PORTFOLIO](https://mohitingale13.github.io/My-Portfolio/)">Portfolio</a> •
 <a href="mailto:mohitpraviningale13@gmail.com">Email</a>
 
 </p>
