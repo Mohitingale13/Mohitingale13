@@ -341,11 +341,11 @@ For me, good software isn't defined by the number of technologies it uses—it's
 
 <div align="center">
 
-<a href="https://github.com/Mohitingale13/SHG-Digital-Record-Platform">
+<a href="https://github.com/Mohitingale13/SHG-Mobile">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitingale13&repo=SHG-Digital-Record-Platform&theme=github_dark&hide_border=true"/>
 </a>
 
-<a href="https://github.com/Mohitingale13/SentinelFlow">
+<a href="https://github.com/Mohitingale13/SentinelUI">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitingale13&repo=SentinelFlow&theme=github_dark&hide_border=true"/>
 </a>
 
@@ -370,8 +370,6 @@ For me, good software isn't defined by the number of technologies it uses—it's
 ---
 
 # 🐍 Contribution Snake
-
-After creating the GitHub Action (`.github/workflows/snake.yml`), this image will update automatically.
 
 <div align="center">
 
