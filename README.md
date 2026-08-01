@@ -313,9 +313,9 @@ For me, good software isn't defined by the number of technologies it uses—it's
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohitingale13&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Mohitingale13&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitingale13&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mohitingale13&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -342,11 +342,11 @@ For me, good software isn't defined by the number of technologies it uses—it's
 <div align="center">
 
 <a href="https://github.com/Mohitingale13/SHG-Mobile">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitingale13&repo=SHG-Mobile&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mohitingale13&repo=SHG-Mobile&theme=github_dark&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Mohitingale13/SentinelUI">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitingale13&repo=SentinelUI&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mohitingale13&repo=SentinelUI&theme=github_dark&hide_border=true"/>
 </a>
 
 </div>
@@ -356,11 +356,11 @@ For me, good software isn't defined by the number of technologies it uses—it's
 <div align="center">
 
 <a href="https://github.com/Mohitingale13/WorthIt">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitingale13&repo=WorthIt&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mohitingale13&repo=WorthIt&theme=github_dark&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Mohitingale13/Championship-Streamer">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mohitingale13&repo=Championship-Streamer&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mohitingale13&repo=Championship-Streamer&theme=github_dark&hide_border=true"/>
 </a>
 
 </div>
@@ -373,7 +373,7 @@ For me, good software isn't defined by the number of technologies it uses—it's
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mohitingale13/Mohitingale13/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Mohitingale13/Mohitingale13/output/github-contribution-grid-snake-dark.svg?v=1"/>
 
 </div>
 
