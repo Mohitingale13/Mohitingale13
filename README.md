@@ -313,9 +313,9 @@ For me, good software isn't defined by the number of technologies it uses—it's
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohitingale13&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohitingale13&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohitingale13&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitingale13&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 
 </div>
 
