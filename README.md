@@ -1,103 +1,102 @@
-# Mohit Ingale
+<div align="center">
 
-::: {align="center"}
-# Hi, I'm Mohit Ingale 👋
+# Mohit Ingale
 
 ### Software Engineer • Full Stack Developer • AI Applications
 
-Building practical software that combines scalable engineering with AI
-to solve real-world problems.
+Building practical software that combines scalable engineering with AI to solve real-world problems.
 
-[![Typing
-SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=2500&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Building+AI-powered+Products;Open+Source+Contributor)](https://git.io/typing-svg)
+<p>
+<a href="https://www.linkedin.com/in/mohitpingale">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Mohitingale13">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:mohitpraviningale13@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://mohitingale13.github.io/My-Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+</a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=Mohitingale13&style=for-the-badge&color=0e75b6)
-:::
 
-------------------------------------------------------------------------
+</div>
 
-## About Me
+---
 
-I'm an Information Technology graduate from India who enjoys building
-software that people can actually use.
+# About Me
 
-My work focuses on scalable backend systems, full-stack web & mobile
-applications, AI-powered products, and developer tools. I enjoy turning
-ideas into production-ready software---from financial platforms that
-help rural communities to intelligent analytics systems and
-privacy-first browser extensions.
+I'm an Information Technology graduate who enjoys building software with measurable impact.
 
-I'm currently seeking opportunities as a **Software Engineer**,
-**Backend Developer**, **Full Stack Developer**, or **AI Engineer**.
+Rather than creating demo projects, I like building products that people can actually use—from digital financial platforms for rural communities to AI-powered analytics systems and mobile applications.
 
-------------------------------------------------------------------------
+My primary interests include
+
+- Backend Engineering
+- Full Stack Development
+- AI-powered Applications
+- Distributed Systems
+- Mobile Development
+- Scalable APIs
+
+Currently looking for Software Engineering opportunities where I can contribute to building reliable products at scale.
+
+---
 
 # Featured Projects
 
-## 🚀 SHG Digital Record Platform
+## SHG Digital Record Platform
 
 **React Native • Node.js • PostgreSQL • Supabase**
 
-A bilingual (English & Marathi) mobile-first platform for Women's Self
-Help Groups that digitizes meetings, savings, member management,
-internal loans, and bank loans.
+A bilingual mobile-first platform built to digitize financial operations for Women's Self Help Groups.
 
-Highlights
+**Highlights**
 
--   AI Voice Assistant
--   Immutable Financial Ledger
--   Internal & Bank Loan Modules
--   PDF Reports & Passbooks
--   Role-Based Access
--   Mobile-first UX
--   Adopted by multiple SHGs
+- AI Voice Assistant
+- Internal Loan Management
+- Bank Loan Distribution
+- Immutable Financial Ledger
+- Role-based Access Control
+- PDF Passbooks & Reports
+- English & Marathi Support
+- Adopted by multiple SHGs
 
-------------------------------------------------------------------------
+---
 
-## 🚦 SentinelFlow
+## SentinelFlow
 
 **Python • FastAPI • React • XGBoost • NetworkX • PostGIS**
 
-Traffic Operations Intelligence Platform built during Flipkart GRID
-featuring prediction models, GIS visualization, incident analytics, and
-operational dashboards.
+Traffic Operations Intelligence Platform developed during Flipkart GRID.
 
-------------------------------------------------------------------------
+Features include
 
-## 💸 WorthIt
+- Traffic Demand Prediction
+- Incident Risk Analysis
+- GIS Mapping
+- Machine Learning
+- Interactive Dashboard
 
-**React 19 • TypeScript • CRXJS • Tailwind CSS**
+---
 
-A privacy-first Chrome Extension that converts product prices into the
-number of hours you worked to earn them.
+## Championship Streamer
 
-### Features
+Real-time sports tournament management platform with automated score updates, fixtures, and analytics.
 
--   Works on Amazon India
--   Flipkart
--   Myntra
--   Meesho
--   Zero tracking
--   Local calculations only
--   Shadow DOM injection
--   MutationObserver powered
--   Open Source
+---
 
-------------------------------------------------------------------------
+## PhysioVR
 
-## 🏆 Championship Streamer
+Affordable AI-assisted rehabilitation platform designed to improve accessibility to physiotherapy using immersive technologies.
 
-Real-time sports tournament management platform featuring live
-scoreboards, fixtures, and tournament analytics.
-
-------------------------------------------------------------------------
-
-## 🥽 PhysioVR
-
-Affordable AI-assisted VR rehabilitation platform designed to improve
-accessibility to physiotherapy.
-
-------------------------------------------------------------------------
+---
 
 # Tech Stack
 
@@ -107,79 +106,113 @@ accessibility to physiotherapy.
 
 ### Frontend
 
-`React` • `React Native` • `Expo` • `Tailwind CSS`
+`React`
+`React Native`
+`Expo`
+`TailwindCSS`
 
 ### Backend
 
-`Node.js` • `Express` • `FastAPI`
+`Node.js`
+`Express`
+`FastAPI`
+`REST APIs`
 
 ### Databases
 
-`PostgreSQL` • `MongoDB` • `Supabase` • `Firebase`
+`PostgreSQL`
+`MongoDB`
+`Supabase`
+`Firebase`
 
 ### AI
 
-`OpenAI APIs` • `Gemini APIs` • `LangGraph` • `Prompt Engineering`
+`OpenAI`
+`Gemini`
+`LangGraph`
+`Prompt Engineering`
+`LLM Integration`
 
 ### Tools
 
-`Git` • `GitHub` • `Docker` • `Linux` • `Android Studio` • `Postman`
+`Git`
+`GitHub`
+`Docker`
+`Linux`
+`Android Studio`
+`Postman`
 
-------------------------------------------------------------------------
+---
 
 # Achievements
 
--   🏆 Winner of Multiple National-Level Hackathons
--   🥇 Winner --- National Prompt Engineering Competition
--   🚀 Qualified for Round 2 --- Flipkart GRID
--   🚀 Qualified for Round 2 --- Smart India Hackathon
--   💡 Built multiple production-oriented AI & Full Stack applications
+🏆 Winner of Multiple National-Level Hackathons
 
-------------------------------------------------------------------------
+🥇 National Prompt Engineering Competition Winner
 
-# What I'm Building
+🚀 Flipkart GRID Round 2 Qualifier
 
--   Privacy-first developer tools
--   AI-powered software products
--   Mobile-first applications
--   Scalable backend systems
--   Open-source utilities
+💡 Developed multiple production-oriented AI and Full Stack applications
 
-------------------------------------------------------------------------
+---
+
+# Currently Exploring
+
+- System Design
+- Agentic AI
+- Distributed Systems
+- AI Infrastructure
+- Backend Architecture
+- Cloud-native Applications
+
+---
 
 # GitHub Analytics
 
-> Replace the stats URLs with your own self-hosted Vercel deployment if
-> public deployments are rate-limited.
+<div align="center">
 
-``` html
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohitingale13&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohitingale13&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohitingale13&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitingale13&layout=compact&theme=transparent&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=Mohitingale13&theme=github-dark&hide_border=true"/>
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mohitingale13&theme=transparent&hide_border=true"/>
+
+</div>
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohitingale13&theme=github-compact&hide_border=true"/>
-```
 
-------------------------------------------------------------------------
+</div>
 
-# Contribution Snake
+---
 
-After enabling the GitHub Action:
+# Open Source
 
-``` md
-![](https://raw.githubusercontent.com/Mohitingale13/Mohitingale13/output/github-contribution-grid-snake-dark.svg)
-```
+I'm actively working on improving my open-source portfolio by publishing production-ready projects, reusable developer tools, and AI-powered applications.
 
-------------------------------------------------------------------------
+---
 
-# Let's Connect
+# Connect
 
--   LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
--   Portfolio: https://YOUR-PORTFOLIO
--   Email: YOUR_EMAIL
+If you're interested in software engineering, AI applications, open source, or just want to discuss interesting ideas, feel free to reach out.
 
-------------------------------------------------------------------------
+<p align="center">
 
-> *Great software quietly solves difficult problems.*
+<a href="www.linkedin.com/in/mohitpingale">LinkedIn</a> •
+<a href="[YOUR_PORTFOLIO](https://mohitingale13.github.io/My-Portfolio/)">Portfolio</a> •
+<a href="mailto:mohitpraviningale13@gmail.com">Email</a>
+
+</p>
+
+---
+
+<div align="center">
+
+*"Build things that people remember because they solved a problem—not because they used a trendy tech stack."*
+
+</div>
