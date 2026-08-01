@@ -22,7 +22,7 @@ Building practical software that combines scalable engineering with AI to solve 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="[YOUR_PORTFOLIO](https://mohitingale13.github.io/My-Portfolio/)">
+<a href="https://mohitingale13.github.io/My-Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
 </a>
 
