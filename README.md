@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # Mohit Ingale
 
@@ -7,11 +7,9 @@
 Building production-oriented software and AI systems that solve real-world problems.
 
 <p>
-  <a href="https://www.linkedin.com/in/mohitpingale">LinkedIn</a>
-  ·
-  <a href="https://mohitingale13.github.io/My-Portfolio/">Portfolio</a>
-  ·
-  <a href="mailto:mohitpraviningale13@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/mohitpingale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mohitingale13.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:mohitpraviningale13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <br>
@@ -97,11 +95,9 @@ Worked on a multi-view deep learning system for automated football foul detectio
 I'm interested in opportunities involving **software engineering, backend systems, AI/ML applications, and developer-facing products**.
 
 <p>
-  <a href="https://www.linkedin.com/in/mohitpingale">LinkedIn</a>
-  ·
-  <a href="https://mohitingale13.github.io/My-Portfolio/">Portfolio</a>
-  ·
-  <a href="https://github.com/Mohitingale13">GitHub</a>
-  ·
-  <a href="mailto:mohitpraviningale13@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/mohitpingale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mohitingale13.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/Mohitingale13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:mohitpraviningale13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
