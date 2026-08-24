@@ -1,172 +1,107 @@
-﻿<div align="center">
+<div align="center">
 
 # Mohit Ingale
 
-### Software Engineer • Full Stack Developer • AI Applications
+### Software Engineer · Backend · AI/ML Systems
 
-<p align="center">
-Building practical software that combines scalable engineering with AI to solve real-world problems.
+Building production-oriented software and AI systems that solve real-world problems.
+
+<p>
+  <a href="https://www.linkedin.com/in/mohitpingale">LinkedIn</a>
+  ·
+  <a href="https://mohitingale13.github.io/My-Portfolio/">Portfolio</a>
+  ·
+  <a href="mailto:mohitpraviningale13@gmail.com">Email</a>
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/mohitpingale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mohitpraviningale13@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Mohitingale13"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://mohitingale13.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/></a>
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Animated developer banner" width="100%" />
+
+</div>
+
+---
+
+## About
+
+Software Engineer with a B.E. in Information Technology, focused on **backend engineering, full-stack development, and applied AI/ML**.
+
+I build systems end-to-end — from **database design and APIs to ML pipelines, AI features, testing, and deployment**.
+
+My work focuses on solving real problems rather than building projects solely to showcase technology.
+
+**Currently open to:** Software Engineer · Backend Engineer · AI/ML Engineer · Applied AI Engineer
+
+---
+
+## Technical Focus
+
+**Languages**
+Python · TypeScript · JavaScript · SQL · Java
+
+**Backend**
+FastAPI · Node.js · Express.js · REST APIs
+
+**Frontend**
+React · React Native · Expo · Tailwind CSS
+
+**Data & Databases**
+PostgreSQL · SQLAlchemy · MongoDB · Supabase
+
+**AI / ML**
+scikit-learn · XGBoost · PyTorch · RAG · LLM Applications · Agentic AI
+
+**Engineering & Infrastructure**
+Docker · Git · GitHub Actions · AWS · Linux · Postman
+
+---
+
+## Experience
+
+### AI/ML Intern — Future Labs
+
+**Aug 2025 – Dec 2025**
+
+Worked on a multi-view deep learning system for automated football foul detection.
+
+* Built computer vision pipelines using **YOLOv8, OpenCV, PyTorch, and SoccerNet**.
+* Integrated player detection with multi-view vision models to classify foul events across camera angles.
+* Generated timestamped incident snapshots for detected events.
+* Built a real-time visualization layer using Streamlit.
+* Optimized inference workflows for practical model usage.
+
+---
+
+## Achievements
+
+* **Winner — National Prompt Engineering Competition (1st Place)**
+* **Winner — 3 National-Level Hackathons**
+* **Qualified — Flipkart GRID 7.0, Round 2**
+* **Qualified — Smart India Hackathon, Round 2**
+* **Winner — Clean City Innovation Competition**
+
+---
+
+## What I Care About
+
+* Building software that solves actual problems
+* Designing reliable backend systems and data models
+* Turning ML models into usable applications
+* Building practical AI/LLM systems rather than demos
+* Writing maintainable, testable code
+* Learning through difficult engineering problems
+
+---
+
+## Let's Connect
+
+I'm interested in opportunities involving **software engineering, backend systems, AI/ML applications, and developer-facing products**.
+
+<p>
+  <a href="https://www.linkedin.com/in/mohitpingale">LinkedIn</a>
+  ·
+  <a href="https://mohitingale13.github.io/My-Portfolio/">Portfolio</a>
+  ·
+  <a href="https://github.com/Mohitingale13">GitHub</a>
+  ·
+  <a href="mailto:mohitpraviningale13@gmail.com">Email</a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=Mohitingale13&style=for-the-badge&color=0e75b6"/>
-
-<br><br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=2200&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Building+AI-powered+Products;Open+Source+Contributor)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## About Me
-
-I am a Software Engineer and Information Technology graduate passionate about building robust software that creates measurable value. My expertise lies at the intersection of **backend engineering**, **full-stack development**, and **AI-powered systems**. 
-
-I thrive on solving real-world problems through thoughtful architecture, scalable databases, and clean code, rather than building projects solely to showcase technology. I am currently open to opportunities as a Software Engineer, Backend Developer, Full Stack Developer, or AI Engineer.
-
----
-
-## Technical Arsenal
-
-**Languages:** 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
-
-**Frontend:** 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
-
-**Backend & APIs:** 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express)
-![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square)
-
-**Databases:** 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
-
-**Cloud & DevOps:** 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
-
-**AI & Tools:** 
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai)
-![LangGraph](https://img.shields.io/badge/LangGraph-1E88E5?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
-
----
-
-## Featured Projects
-
-### MicroFlow ML Platform
-> **Python • FastAPI • React • TypeScript • PostgreSQL • Docker • GitHub Actions**
-
-Architected and developed a full-stack Machine Learning Operations (MLOps) platform designed for computational biology workflows. MicroFlow enables researchers to manage datasets, track complex ML experiments, and execute distributed training pipelines in a containerized environment.
-- Engineered a high-performance REST API with FastAPI and SQLAlchemy ORM.
-- Developed a highly responsive, mobile-first React dashboard using Vite and Tailwind CSS.
-- Implemented robust CI/CD pipelines using GitHub Actions with 188+ automated backend tests.
-- Deployed a multi-tier cloud architecture across Neon (PostgreSQL), Render (Backend), and Vercel (Frontend).
-
-### SHG Digital Record Platform
-> **React Native • Expo • Node.js • PostgreSQL • Supabase**
-
-A bilingual mobile-first platform built for Women's Self Help Groups (SHGs) to digitize savings, meetings, member management, and loan operations.
-- Integrated an AI Voice Assistant tailored for low-literacy users.
-- Built an immutable financial ledger with role-based access control.
-- Generated dynamic PDF reports and digital passbooks.
-- Successfully adopted by multiple active SHGs.
-
-### SentinelFlow
-> **Python • FastAPI • React • XGBoost • PostGIS**
-
-An AI-powered Traffic Operations Intelligence Platform developed during Flipkart GRID to assist traffic control centers with predictive analytics.
-- Engineered traffic demand prediction and incident risk analysis models.
-- Developed a GIS-based visualization dashboard for real-time decision support.
-
-### WorthIt
-> **React • TypeScript • Tailwind CSS • Chrome Extension APIs**
-
-A privacy-first Chrome Extension that translates e-commerce prices into the actual hours of work required to earn them, encouraging mindful spending.
-- Supported major platforms including Amazon, Flipkart, Myntra, and Meesho.
-- Utilized Shadow DOM injection for zero CSS conflicts and MutationObserver for dynamic price detection.
-- Ensured completely local execution with zero tracking or telemetry.
-
----
-
-## Achievements & Milestones
-
-- Architected and deployed the MicroFlow ML Platform (2026).
-- Winner of Multiple National-Level Hackathons.
-- Winner of a National Prompt Engineering Competition.
-- Qualified for Flipkart GRID Round 2.
-- Qualified for Smart India Hackathon Round 2.
-- Winner of the Clean City Innovation Competition.
-- Graduated with a B.E. in Information Technology.
-
----
-
-## GitHub Analytics
-
-<div align="center">
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Mohitingale13&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mohitingale13&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-</div>
-<br>
-<div align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=Mohitingale13&theme=github-dark-blue&hide_border=true"/>
-</div>
-
----
-
-## Pinned Repositories
-
-<div align="center">
-
-<a href="https://github.com/Mohitingale13/microflow-ml-platform">
-<img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mohitingale13&repo=microflow-ml-platform&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Mohitingale13/SHG-Mobile">
-<img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mohitingale13&repo=SHG-Mobile&theme=github_dark&hide_border=true"/>
-</a>
-
-</div>
-<br>
-<div align="center">
-
-<a href="https://github.com/Mohitingale13/WorthIt">
-<img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mohitingale13&repo=WorthIt&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Mohitingale13/SentinelUI">
-<img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Mohitingale13&repo=SentinelUI&theme=github_dark&hide_border=true"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting.
-*"Great software isn't remembered because it used the latest technology. It's remembered because it solved a real problem."*
-
-</div>
