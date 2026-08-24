@@ -53,22 +53,6 @@ Docker · Git · GitHub Actions · AWS · Linux · Postman
 
 ---
 
-## Experience
-
-### AI/ML Intern — Future Labs
-
-**Aug 2025 – Dec 2025**
-
-Worked on a multi-view deep learning system for automated football foul detection.
-
-* Built computer vision pipelines using **YOLOv8, OpenCV, PyTorch, and SoccerNet**.
-* Integrated player detection with multi-view vision models to classify foul events across camera angles.
-* Generated timestamped incident snapshots for detected events.
-* Built a real-time visualization layer using Streamlit.
-* Optimized inference workflows for practical model usage.
-
----
-
 ## Achievements
 
 * **Winner — National Prompt Engineering Competition (1st Place)**
@@ -100,4 +84,5 @@ I'm interested in opportunities involving **software engineering, backend system
   <a href="https://github.com/Mohitingale13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:mohitpraviningale13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
 
