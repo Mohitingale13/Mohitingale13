@@ -25,6 +25,8 @@ I build systems end-to-end — from database design and APIs to ML pipelines, AI
 
 ## Technical Arsenal
 
+<img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Coding GIF">
+
 **Languages:** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
@@ -61,6 +63,8 @@ I build systems end-to-end — from database design and APIs to ML pipelines, AI
 ![LangGraph](https://img.shields.io/badge/LangGraph-1E88E5?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
+
+<br clear="both"/>
 
 ---
 
