@@ -15,7 +15,7 @@ Building production-oriented software and AI systems that solve real-world probl
 </p>
 
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Animated developer banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Animated developer banner" width="250" />
 
 </div>
 
