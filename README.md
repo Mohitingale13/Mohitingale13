@@ -1,14 +1,14 @@
-﻿<div align="center">
+<div align="center">
 
 # Mohit Ingale
 
-### Software Engineer Â· Backend Â· AI/ML Systems
+### Software Engineer · Backend · AI/ML Systems
 
 Software Engineer focused on backend engineering, full-stack development, and applied AI/ML.
 
-I build systems end-to-end â€” from database design and APIs to ML pipelines, AI features, testing, and deployment.
+I build systems end-to-end — from database design and APIs to ML pipelines, AI features, testing, and deployment.
 
-**Currently open to:** Software Engineer Â· Backend Engineer Â· AI/ML Engineer Â· Applied AI Engineer
+**Currently open to:** Software Engineer · Backend Engineer · AI/ML Engineer · Applied AI Engineer
 
 <br>
 
@@ -67,7 +67,7 @@ I build systems end-to-end â€” from database design and APIs to ML pipeline
 ## Featured Projects
 
 ### MicroFlow ML Platform
-> **Python â€¢ FastAPI â€¢ React â€¢ TypeScript â€¢ PostgreSQL â€¢ Docker â€¢ GitHub Actions**
+> **Python • FastAPI • React • TypeScript • PostgreSQL • Docker • GitHub Actions**
 
 Architected and developed a full-stack Machine Learning Operations (MLOps) platform designed for computational biology workflows. MicroFlow enables researchers to manage datasets, track complex ML experiments, and execute distributed training pipelines in a containerized environment.
 - Engineered a high-performance REST API with FastAPI and SQLAlchemy ORM.
@@ -76,7 +76,7 @@ Architected and developed a full-stack Machine Learning Operations (MLOps) platf
 - Deployed a multi-tier cloud architecture across Neon (PostgreSQL), Render (Backend), and Vercel (Frontend).
 
 ### SHG Digital Record Platform
-> **React Native â€¢ Expo â€¢ Node.js â€¢ PostgreSQL â€¢ Supabase**
+> **React Native • Expo • Node.js • PostgreSQL • Supabase**
 
 A bilingual mobile-first platform built for Women's Self Help Groups (SHGs) to digitize savings, meetings, member management, and loan operations.
 - Integrated an AI Voice Assistant tailored for low-literacy users.
@@ -85,7 +85,7 @@ A bilingual mobile-first platform built for Women's Self Help Groups (SHGs) to d
 - Successfully adopted by multiple active SHGs.
 
 ### SentinelFlow
-> **Python â€¢ FastAPI â€¢ React â€¢ XGBoost â€¢ PostGIS**
+> **Python • FastAPI • React • XGBoost • PostGIS**
 
 An AI-powered Traffic Operations Intelligence Platform developed during Flipkart GRID to assist traffic control centers with predictive analytics.
 - Engineered traffic demand prediction and incident risk analysis models.
