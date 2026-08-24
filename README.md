@@ -1,15 +1,17 @@
-﻿<div align="center">
+<div align="center">
 
 # Mohit Ingale
 
 ### Software Engineer · Backend · AI/ML Systems
 
-Building production-oriented software and AI systems that solve real-world problems.
+Software engineer building across the stack, exploring AI, and contributing to open source.
 
 <p>
-  <a href="https://www.linkedin.com/in/mohitpingale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://mohitingale13.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:mohitpraviningale13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mohitpingale">LinkedIn</a>
+  ·
+  <a href="https://mohitingale13.github.io/My-Portfolio/">Portfolio</a>
+  ·
+  <a href="mailto:mohitpraviningale13@gmail.com">Email</a>
 </p>
 
 <br>
@@ -25,7 +27,7 @@ Software Engineer with a B.E. in Information Technology, focused on **backend en
 
 I build systems end-to-end — from **database design and APIs to ML pipelines, AI features, testing, and deployment**.
 
-My work focuses on solving real problems rather than building projects solely to showcase technology.
+I’m interested in building software that solves real problems and holds up beyond the demo.
 
 **Currently open to:** Software Engineer · Backend Engineer · AI/ML Engineer · Applied AI Engineer
 
@@ -50,6 +52,22 @@ scikit-learn · XGBoost · PyTorch · RAG · LLM Applications · Agentic AI
 
 **Engineering & Infrastructure**
 Docker · Git · GitHub Actions · AWS · Linux · Postman
+
+---
+
+## Experience
+
+### AI/ML Intern — Future Labs
+
+**Aug 2025 – Dec 2025**
+
+Worked on a multi-view deep learning system for automated football foul detection.
+
+* Built computer vision pipelines using **YOLOv8, OpenCV, PyTorch, and SoccerNet**.
+* Integrated player detection with multi-view vision models to classify foul events across camera angles.
+* Generated timestamped incident snapshots for detected events.
+* Built a real-time visualization layer using Streamlit.
+* Optimized inference workflows for practical model usage.
 
 ---
 
@@ -79,10 +97,11 @@ Docker · Git · GitHub Actions · AWS · Linux · Postman
 I'm interested in opportunities involving **software engineering, backend systems, AI/ML applications, and developer-facing products**.
 
 <p>
-  <a href="https://www.linkedin.com/in/mohitpingale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://mohitingale13.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/Mohitingale13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:mohitpraviningale13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mohitpingale">LinkedIn</a>
+  ·
+  <a href="https://mohitingale13.github.io/My-Portfolio/">Portfolio</a>
+  ·
+  <a href="https://github.com/Mohitingale13">GitHub</a>
+  ·
+  <a href="mailto:mohitpraviningale13@gmail.com">Email</a>
 </p>
-
-
