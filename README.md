@@ -124,6 +124,5 @@ An AI-powered Traffic Operations Intelligence Platform developed during Flipkart
 <div align="center">
 
 ### Thanks for visiting.
-*"Great software isn't remembered because it used the latest technology. It's remembered because it solved a real problem."*
 
 </div>
